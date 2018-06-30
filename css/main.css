@@ -108,40 +108,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
-.btn:not(:disabled):not(.disabled) {
-    cursor: pointer;
-}
 
-.btn {
-    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-    font-weight: 700;
-}
-.btn-xl {
-    padding: 1.25rem 2.5rem;
-}
-.btn-outline-light {
-    /* color: #f8f9fa; */
-    /* background-color: transparent; */
-    background-image: none;
-    border-color: #f8f9fa;
-}
-.btn {
-    display: inline-block;
-    font-weight: 400;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    border: 1px solid transparent;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: .25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-}
 /* -------------------------------------------------------------------
  * links - (_document-setup)
  * ------------------------------------------------------------------- */
@@ -228,8 +195,6 @@ p.lead {
 	line-height: 1.8;
 	color: #4f4f4f;
 	margin-bottom: 3.6rem;
-  text-decoration: overline;
-  text-decoration-color: #f3f3f3;
 }
 
 @media only screen and (max-width:768px) {
@@ -1346,9 +1311,6 @@ input::-moz-focus-inner {
 .js .animate-this,
 .js .animate-intro {
 	opacity: 0;
-  width: fit-content;
-
-
 }
 
 .oldie .animate-this,
@@ -1723,7 +1685,7 @@ header .header-logo a {
 .home-content-tablecell .row {
 	position: relative;
 	padding-top: 4.2rem;
-	padding-bottom: 350px;
+	padding-bottom: 15rem;
 }
 
 .home-content-tablecell h3 {
@@ -2021,7 +1983,6 @@ header .header-logo a {
 	width: 50%;
 	padding-left: 20px;
 	padding-right: 20px;
-	font-size: larger;
 }
 
 .about-profile {
@@ -2695,7 +2656,7 @@ header .header-logo a {
 	font-size: 1.3rem;
 	line-height: 2.4rem;
 	margin: .6rem 0 0;
-	color: rgba(255, 255, 255);
+	color: rgba(255, 255, 255, 0.6);
 }
 
 .lg-outer .lg-thumb-item.active,
@@ -3019,7 +2980,7 @@ header .header-logo a {
 }
 
 .contact-info p {
-	color: #f3f3f3;
+	color: #555;
 }
 
 .contact-info .collapse {
