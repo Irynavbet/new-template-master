@@ -231,6 +231,7 @@
 }
 .fa-home:before {
   content: "\f015";
+
 }
 .fa-file-o:before {
   content: "\f016";
@@ -246,9 +247,11 @@
 }
 .fa-arrow-circle-o-down:before {
   content: "\f01a";
+  font-weight: 900;
 }
 .fa-arrow-circle-o-up:before {
   content: "\f01b";
+  font-weight: 900;
 }
 .fa-inbox:before {
   content: "\f01c";
@@ -377,6 +380,7 @@
 }
 .fa-arrows:before {
   content: "\f047";
+  font-weight: 900;
 }
 .fa-step-backward:before {
   content: "\f048";
@@ -446,15 +450,19 @@
 }
 .fa-arrow-left:before {
   content: "\f060";
+  font-weight: 900;
 }
 .fa-arrow-right:before {
   content: "\f061";
+  font-weight: 900;
 }
 .fa-arrow-up:before {
   content: "\f062";
+  font-weight: 900;
 }
 .fa-arrow-down:before {
   content: "\f063";
+  font-weight: 900;
 }
 .fa-mail-forward:before,
 .fa-share:before {
@@ -532,9 +540,11 @@
 }
 .fa-arrows-v:before {
   content: "\f07d";
+  font-weight: 900;
 }
 .fa-arrows-h:before {
   content: "\f07e";
+  font-weight: 900;
 }
 .fa-bar-chart-o:before,
 .fa-bar-chart:before {
@@ -654,15 +664,19 @@
 }
 .fa-arrow-circle-left:before {
   content: "\f0a8";
+  font-weight: 900;
 }
 .fa-arrow-circle-right:before {
   content: "\f0a9";
+  font-weight: 900;
 }
 .fa-arrow-circle-up:before {
   content: "\f0aa";
+  font-weight: 900;
 }
 .fa-arrow-circle-down:before {
   content: "\f0ab";
+  font-weight: 900;
 }
 .fa-globe:before {
   content: "\f0ac";
@@ -681,6 +695,7 @@
 }
 .fa-arrows-alt:before {
   content: "\f0b2";
+  font-weight: 900;
 }
 .fa-group:before,
 .fa-users:before {
@@ -980,6 +995,7 @@
 }
 .fa-location-arrow:before {
   content: "\f124";
+  font-weight: 900;
 }
 .fa-crop:before {
   content: "\f125";
@@ -1222,15 +1238,20 @@
 }
 .fa-long-arrow-down:before {
   content: "\f175";
+  font-weight: 900;
 }
 .fa-long-arrow-up:before {
   content: "\f176";
+  font-weight: 900;
+
 }
 .fa-long-arrow-left:before {
   content: "\f177";
+  font-weight: 900;
 }
 .fa-long-arrow-right:before {
   content: "\f178";
+  font-weight: 900;
 }
 .fa-apple:before {
   content: "\f179";
@@ -1294,9 +1315,11 @@
 }
 .fa-arrow-circle-o-right:before {
   content: "\f18e";
+  font-weight: 900;
 }
 .fa-arrow-circle-o-left:before {
   content: "\f190";
+  font-weight: 900;
 }
 .fa-toggle-left:before,
 .fa-caret-square-o-left:before {
