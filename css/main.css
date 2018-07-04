@@ -649,7 +649,8 @@ select {
 
 .ss-custom-select::after {
 	content: '\f0d7';
-	font-family: 'FontAwesome';
+	font-family: 'FontAwesome' !important;
+
 	position: absolute;
 	top: 50%;
 	right: 1.5rem;
