@@ -756,7 +756,9 @@ textarea {
 	content: "";
 	display: table;
 }
-
+.fa {
+  font-family: 'FontAwesome' !important;
+}
 .group:after {
 	clear: both;
 }

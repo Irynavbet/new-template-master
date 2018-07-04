@@ -12,6 +12,9 @@
   font-style: normal;
 }
 .fa {
+  font-family: 'FontAwesome' !important;
+ }
+.fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
   font-size: inherit;
