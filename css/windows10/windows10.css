@@ -191,15 +191,18 @@
 }
 .icon-DownArrow:before {
     content: "\e937";
+    font-weight: 900;
 }
 .icon-DownLeftArrow:before {
     content: "\e938";
+    font-weight: 900;
 }
 .icon-DownLeftRound:before {
     content: "\e939";
 }
 .icon-DownRightArrow:before {
     content: "\e93a";
+    font-weight: 900;
 }
 .icon-DownRightRound:before {
     content: "\e93b";
@@ -317,6 +320,7 @@
 }
 .icon-LeftArrow:before {
     content: "\e961";
+    font-weight: 900;
 }
 .icon-LeftRound:before {
     content: "\e962";
@@ -482,6 +486,7 @@
 }
 .icon-RightArrow:before {
     content: "\e998";
+    font-weight: 900;
 }
 .icon-RightRound:before {
     content: "\e999";
@@ -566,15 +571,18 @@
 }
 .icon-UpArrow:before {
     content: "\e9b4";
+    font-weight: 900;
 }
 .icon-UpLeftArrow:before {
     content: "\e9b5";
+    font-weight: 900;
 }
 .icon-UpLeftRound:before {
     content: "\e9b6";
 }
 .icon-UpRightArrow:before {
     content: "\e9b7";
+    font-weight: 900;
 }
 .icon-UpRightRound:before {
     content: "\e9b8";
@@ -624,4 +632,3 @@
 .icon-ZIP:before {
     content: "\e9c7";
 }
-
