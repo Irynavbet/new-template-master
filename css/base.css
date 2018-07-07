@@ -61,9 +61,22 @@ audio:not([controls]) {
 template {
 	display: none;
 }
-
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  color: #494949 !important;
+  border-width: 5px thick !important;
+}
 a {
 	background: transparent;
+}
+
+.niz-pravo {
+  margin-left: 145px !important;
 }
 
 .ushi {
