@@ -123,8 +123,13 @@ sub {
 }
 
 .pravo {
-  padding-left: 350px;
+  margin-left: 150px !important;
+  /* width: 35%; */
 }
+
+/* .levo {
+  width: 35%;
+} */
 
 img {
 	border: 0;
