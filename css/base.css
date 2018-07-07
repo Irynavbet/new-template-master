@@ -66,6 +66,10 @@ a {
 	background: transparent;
 }
 
+.ushi {
+  text-align: center;
+}
+
 a:active,
 a:hover {
 	outline: 0;
@@ -113,13 +117,29 @@ sup {
 sub {
 	bottom: -0.25em;
 }
-
+.iryna-img {
+  padding-top: 150px;
+  padding-right: 50px;
+}
 img {
 	border: 0;
+}
+.ser {
+  color: #494949!important;
+}
+
+.vyshe {
+  padding-bottom: 100px;
 }
 
 svg:not(:root) {
 	overflow: hidden;
+}
+.palets {
+text-decoration: underline;
+background-color: none !important;
+border-radius: 80%;
+
 }
 
 figure {
@@ -448,7 +468,8 @@ textarea {
 
 .col-twelve,
 .col-full {
-	width: 100%;
+	width: 100% !important;
+
 }
 
 /* -------------------------------------------------------------------
@@ -802,8 +823,8 @@ textarea {
 	width: 100%;
 }
 .separator {
-  /* box-sizing: content-box; */
-  margin-left: 150px;
+  box-sizing: content-box;
+  /* margin-left: 150px; */
   margin-bottom: 40px;
   margin-top: 40px;
   width: 250px;

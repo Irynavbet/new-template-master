@@ -1252,7 +1252,9 @@ input::-moz-focus-inner {
 	letter-spacing: .15rem;
 	margin-bottom: 0;
 }
-
+#home {
+  background-color: #fff1ce!important;
+}
 .section-intro.with-bottom-sep {
 	padding-bottom: 4.2rem;
 	position: relative;
@@ -1314,6 +1316,7 @@ input::-moz-focus-inner {
 .js .animate-this,
 .js .animate-intro {
 	opacity: 0;
+
 }
 
 .oldie .animate-this,
