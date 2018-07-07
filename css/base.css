@@ -123,8 +123,12 @@ sub {
 }
 
 .pravo {
-  margin-left: 150px !important;
+  margin-left: 100px !important;
   /* width: 35%; */
+}
+
+.double-pravo {
+  margin-left: 320px !important;
 }
 
 /* .levo {
