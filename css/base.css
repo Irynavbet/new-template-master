@@ -133,6 +133,9 @@ sub {
 .iryna-img {
   padding-top: 150px;
   padding-right: 50px;
+  border-radius: 10% !important ;
+  border-width: thick !important;
+  border-color: white !important;
 }
 
 .pravo {
@@ -140,8 +143,42 @@ sub {
   /* width: 35%; */
 }
 
+.ssylka {
+  font-size: 16px !important;
+font-style: italic !important;
+  font-weight: bolder !important;
+}
+
+.proekt {
+
+}
+
+.razmer {
+  width: 250px !important;
+  height: 220px !important;
+  margin-bottom: 10px !important;
+}
+
+.ttt {
+  margin-top: -50px !important;
+}
+
+.sugar {
+  width: 230px !important;
+  height: 180px !important;
+}
+
 .double-pravo {
   margin-left: 340px !important;
+}
+
+.napravo {
+  float: right !important;
+  margin-right: 320px !important;
+}
+
+.nalevo {
+  float: left !important;
 }
 
 /* .levo {
